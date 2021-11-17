@@ -12,8 +12,7 @@ tags:
 ---
 
 
-<h2>The Edge Marketing: Personal Wealth – Online (4 January 2016)
-    Personal Wealth, The Edge Malaysia Weekly (28 December 2015)</h2>
+
 
 
 <p>THIS year has seen mixed performance from PRS funds across all categories due to various challenges in
