@@ -1,7 +1,7 @@
 ---
 templateKey: article-post
 author: Maxine Yong
-title: PRS funds delivered mixed performance in 2015
+title: PRS Funds Delivered Mixed Performance in 2015
 date: 2016-01-05T03:01:06.200Z
 description: THIS year has seen mixed performance from PRS funds across all
   categories due to various challenges in the local and global economy. These
